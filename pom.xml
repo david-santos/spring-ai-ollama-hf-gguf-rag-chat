@@ -14,7 +14,7 @@
 	<artifactId>spring-ai-ollama-hf-gguf-rag-chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-ai-ollama-hf-gguf-rag-chat</name>
-	<description>Spring AI RAG chat application using Ollama, PGVector, and PDF ingestion</description>
+	<description>This project demonstrates the simplest use Spring AI to build Retrieval Augmented Generation (RAG) pipelines and a conversational chat grounded on ingested content</description>
 
 	<properties>
 		<java.version>25</java.version>
