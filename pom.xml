@@ -10,10 +10,10 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>pt.dcs.example.springai</groupId>
-	<artifactId>ollama-hf-gguf-rag-chat</artifactId>
+	<groupId>pt.dcs.example.spring-ai</groupId>
+	<artifactId>spring-ai-ollama-hf-gguf-rag-chat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ollama-hf-gguf-rag-chat</name>
+	<name>spring-ai-ollama-hf-gguf-rag-chat</name>
 	<description>Spring AI RAG chat application using Ollama, PGVector, and PDF ingestion</description>
 
 	<properties>

@@ -1,4 +1,4 @@
-package pt.dcs.example.springai.ollama_hf_gguf_rag_chat;
+package pt.dcs.example.spring_ai.ollama_hf_gguf_rag_chat;
 
 import org.slf4j.Logger;
 import org.springframework.ai.reader.tika.TikaDocumentReader;
